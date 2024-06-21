@@ -1,0 +1,23 @@
+a {
+    background-color: teal;
+    color:aliceblue;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+p {
+    background-color: aquamarine;
+    color:blueviolet
+}
+
+ul li {
+    font-style: italic;
+    font-size: 20px;
+}
+
+ol li {
+    font-family:'Times New Roman', Times, serif;
+    background-color: beige;
+}
